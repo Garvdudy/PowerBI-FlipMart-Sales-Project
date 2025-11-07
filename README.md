@@ -5,7 +5,7 @@ The purpose of this study is to understand category performance, profitability c
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 This analytical research focuses on evaluating FlipMart’s retail data to identify which products, categories, regions, and customer segments drive the highest revenue and profitability. The goal is to enable data-driven strategic decisions.
 
 ---
