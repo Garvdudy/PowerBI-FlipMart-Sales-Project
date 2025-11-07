@@ -19,7 +19,7 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## ✅ Analytical Objectives
+## Analytical Objectives
 - Define KPIs
 - Explore retail sales performance
 - Compare sales vs profit distribution
@@ -28,7 +28,7 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## 🔧 Methodology
+## Methodology
 - Data Cleaning + Preparation
 - Exploratory Data Analysis
 - KPI breakdown
@@ -38,7 +38,7 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## 📊 Key KPIs
+## Key KPIs
 | KPI | Meaning |
 |-----|---------|
 | Total Sales | Gross revenue generated |
@@ -49,7 +49,7 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## 📈 Dashboards
+## Dashboards
 | Dashboard | Link |
 |----------|------|
 | Sales Dashboard 01 | # |
@@ -59,14 +59,14 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 - Category-wise profitability varies heavily
 - High revenue ≠ High profit in all subcategories
 - Region based performance shows clear strategic patterns
 
 ---
 
-## 🧠 Strategic Recommendations
+## Strategic Recommendations
 - Increase focus on high margin categories
 - Re-evaluate pricing of weak subcategories
 - Region-specific discount strategy
@@ -74,7 +74,7 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## 🧰 Tools & Skills Used
+## Tools & Skills Used
 - Power BI (Visual Insights)
 - Python (Pandas)
 - SQL (Data Querying)
