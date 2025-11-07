@@ -83,4 +83,4 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-© Garv Dudy
+© Garv Dudy | PowerBI Professonal Project Fall2025
