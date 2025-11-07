@@ -10,7 +10,7 @@ This analytical research focuses on evaluating FlipMart’s retail data to ident
 
 ---
 
-## 🎯 Business Problems
+## Business Problems
 - Which product categories drive the most sales and profit?
 - Which subcategories are performing weak and need action?
 - Which region contributes the highest profit margin?
