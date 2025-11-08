@@ -1,6 +1,6 @@
 # FlipMart Retail Sales Analytics Case Study
 
-This repository contains my full end-to-end analytics project for **FlipMart**, a retail store dataset.  
+This repository contains full end-to-end analytics project for **FlipMart**, a retail store dataset.  
 The purpose of this study is to understand category performance, profitability contribution, key KPIs, and generate actionable recommendations for business improvement.
 
 ---
